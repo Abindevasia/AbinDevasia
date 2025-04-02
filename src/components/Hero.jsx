@@ -26,7 +26,7 @@ const Hero = () => {
           </p>
         </div>
       </div>
-      {<EarthCanvas/>}
+      
       {/* <ComputersCanvas /> */}
       {/* <LaptopCanvas /> */}
 
