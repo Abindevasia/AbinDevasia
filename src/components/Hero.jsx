@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
+import {EarthCanvas} from "./canvas";
 import{} from "./canvas"
 
 const Hero = () => {
@@ -25,7 +26,7 @@ const Hero = () => {
           </p>
         </div>
       </div>
-
+      {<EarthCanvas/>}
       {/* <ComputersCanvas /> */}
       {/* <LaptopCanvas /> */}
 
